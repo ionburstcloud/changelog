@@ -8,52 +8,52 @@ In this example, June 2021 had new releases, features and fixes for all three ar
 
 #### New Releases
 
-- foo
-- bar
+- New Release 1
+- New Release 2
 
 #### New Features
 
-- foo
-- bar
+- Feature 1
+- Feature 2
 
 #### Fixes
 
-- foo
-- bar
+- Fixed issue 1
+- Fixed bug 2
 
 ### Ionburst Cloud Website/Docs
 
 #### New Releases
 
-- foo
-- bar
+- New Release 1
+- New Release 2
 
 #### New Features
 
-- foo
-- bar
+- Feature 1
+- Feature 2
 
 #### Fixes
 
-- foo
-- bar
+- Fixed issue 1
+- Fixed bug 2
 
 ### Ionburst Cloud Clients/Integrations
 
 #### New Releases
 
-- foo
-- bar
+- New Release 1
+- New Release 2
 
 #### New Features
 
-- foo
-- bar
+- Feature 1
+- Feature 2
 
 #### Fixes
 
-- foo
-- bar
+- Fixed issue 1
+- Fixed bug 2
 
 ## May 2021
 
@@ -61,17 +61,17 @@ In this example, June 2021 had new releases, features and fixes for all three ar
 
 #### New Features
 
-- foo
-- bar
+- Feature 1
+- Feature 2
 
 #### Fixes
 
-- foo
-- bar
+- Fixed issue 1
+- Fixed bug 2
 
 ### Ionburst Cloud Clients/Integrations
 
 #### Fixes
 
-- foo
-- bar
+- Fixed issue 1
+- Fixed bug 2
