@@ -21,7 +21,7 @@ In this example, June 2021 had new releases, features and fixes for all three ar
 - Fixed issue 1
 - Fixed bug 2
 
-### Ionburst Cloud Website/Docs
+### Ionburst Cloud Website & Docs
 
 #### 🚀 New Releases
 
@@ -38,7 +38,7 @@ In this example, June 2021 had new releases, features and fixes for all three ar
 - Fixed issue 1
 - Fixed bug 2
 
-### Ionburst Cloud Clients/Integrations
+### Ionburst Cloud Clients & Integrations
 
 #### 🚀 New Releases
 
@@ -69,7 +69,7 @@ In this example, June 2021 had new releases, features and fixes for all three ar
 - Fixed issue 1
 - Fixed bug 2
 
-### Ionburst Cloud Clients/Integrations
+### Ionburst Cloud Clients & Integrations
 
 #### ⚙️ Fixes
 
