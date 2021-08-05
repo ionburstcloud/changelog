@@ -6,20 +6,20 @@
 
 #### 🚀 New Releases
 
-- Our No Key Vault (NKV) Service is now available.
+- Our No Key Vault (NKV) Service is now available in our eu-west-1 and eu-west-2 regions.
 
 #### ✨ New Features
 
-- We've added a Dashboard area into the platform.
-- We've also added a Parties page, so developers can review available parties.
+- We've added a Dashboard area into the Portal.
+- We've added a Parties page, so developers can view available parties.
 
 #### ⚙️ Fixes
 
 - The Ionburst Cloud Portal is now available on [ionburst.cloud](https://portal.ionburst.cloud)
-- The left sidebar in the Portal UI has been updated to include icons and has a collapsable toggle.
-- Important resource links have been added to the left sidebar to provide 
+- The left sidebar in the Portal UI has been updated to include icons, and has a collapsable toggle.
+- Resource links have been added to the lower left sidebar to provide easy access to important resources.
 - Personalised greeting added to new dashboard area.
-- The topbar in the Portal UI has been updated to include an account details dropdown and sign out.
+- The topbar in the Portal UI has been updated to include an account details dropdown and sign out functionality.
 
 ### Ionburst Cloud Website/Docs
 
@@ -34,9 +34,9 @@
 
 #### ⚙️ Fixes
 
-- Updated some minor styling issues on our blog page.
-- Fixed output and structure of our `ioncli` tutorial.
-- The IonFS and ioncli install guides now link to the latest release available.
+- We've updated some minor styling issues on the blog page.
+- Fixed command outputs and the structure of our `ioncli` tutorial.
+- The IonFS CLI and ioncli install guides now link to the latest release available.
 - Site-wide grammar and terminology updates for S6 and NKV.
 
 ### Ionburst Cloud Clients/Integrations
