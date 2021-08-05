@@ -16,21 +16,22 @@
 #### ⚙️ Fixes
 
 - The Ionburst Cloud Portal is now available on [ionburst.cloud](https://portal.ionburst.cloud).
-- The left sidebar in the Portal UI has been updated to include icons, and has a collapsable toggle.
+- The left sidebar in the Portal has been updated to include icons, and the menu has a collapsable toggle.
 - Resource links have been added to the lower left sidebar to provide easy access to important resources.
-- Personalised greeting added to new dashboard area.
-- The topbar in the Portal UI has been updated to include an account details dropdown and sign out functionality.
+- Personalised greeting added to dashboard area.
+- The topbar in the Portal has been updated to include an account details dropdown and sign out functionality.
 
-### Ionburst Cloud Website/Docs
+### Ionburst Cloud Website & Docs
 
 #### 🚀 New Releases
 
 - NKV [common use scenarios](https://ionburst.cloud/docs/common-use-scenarios#no-key-vault-nkv) added.
 - Catch up with the [NKV: Securely store, access, and distribute secrets](https://ionburst.cloud/highlights/nkv-ultra-secure-secrets-storage-service) announcement.
-- Our developer tutorial, [getting started with the IonFS CLI and S6](https://ionburst.cloud/tutorials/get-started-with-ioncli), is now live.
-- Our developer tutorial, [getting started with the IonFS CLI and NKV](https://ionburst.cloud/tutorials/get-started-with-ioncli), is now live.
+- Our developer tutorial, [getting started with the IonFS CLI, S6 and AWS S3](https://ionburst.cloud/tutorials/get-started-with-ioncli), is now live.
+- Our developer tutorial, [getting started with the IonFS CLI, NKV and AWS S3](https://ionburst.cloud/tutorials/get-started-with-ioncli), is now live.
 - We've updated our [API documentation](https://ionburst.cloud/docs/secrets) with details on NKV.
-- We've added a configuration section to the IonFS docs for setting up with [S6](https://ionburst.cloud/docs/ionfs/s6-configuration) and [NKV](https://ionburst.cloud/docs/ionfs/nkv-configuration).
+- We've added a configuration section to the IonFS CLI docs for setting up with [S6](https://ionburst.cloud/docs/ionfs/s6-configuration) and [NKV](https://ionburst.cloud/docs/ionfs/nkv-configuration).
+- We've added a configuration section to the ioncli docs for setting up with [S6](https://ionburst.cloud/docs/ioncli/s6-configuration).
 
 #### ⚙️ Fixes
 
@@ -39,7 +40,7 @@
 - The IonFS CLI and ioncli install guides now link to the latest release available.
 - Site-wide grammar and terminology updates for S6 and NKV.
 
-### Ionburst Cloud Clients/Integrations
+### Ionburst Cloud Clients & Integrations
 
 #### ✨ New Features
 
