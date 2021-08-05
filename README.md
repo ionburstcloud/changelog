@@ -15,7 +15,7 @@
 
 #### ⚙️ Fixes
 
-- The Ionburst Cloud Portal is now available on [ionburst.cloud](https://portal.ionburst.cloud)
+- The Ionburst Cloud Portal is now available on [ionburst.cloud](https://portal.ionburst.cloud).
 - The left sidebar in the Portal UI has been updated to include icons, and has a collapsable toggle.
 - Resource links have been added to the lower left sidebar to provide easy access to important resources.
 - Personalised greeting added to new dashboard area.
@@ -47,10 +47,10 @@
 - NKV support is now available for:
   - [IonFS](https://github.com/ionburstcloud/IonFS), from version 0.2.0
   - [ioncli](https://github.com/ionburstcloud/ionburst-sdk-go), from version 1.1.0
-  - the [Ionburst .NET SDK](https://github.com/ionburstcloud/ionburst-sdk-net), from version 1.2.0
-  - the [Ionburst Node.js SDK](https://github.com/ionburstcloud/ionburst-sdk-javascript), from version 1.1.0
-  - the [Ionburst Python SDK](https://github.com/ionburstcloud/ionburst-sdk-python), from version 1.1.0
-  - the [Ionburst Go SDK](https://github.com/ionburstcloud/ionburst-sdk-go), from version 1.1.0
+  - The [Ionburst .NET SDK](https://github.com/ionburstcloud/ionburst-sdk-net), from version 1.2.0
+  - The [Ionburst Node.js SDK](https://github.com/ionburstcloud/ionburst-sdk-javascript), from version 1.1.0
+  - The [Ionburst Python SDK](https://github.com/ionburstcloud/ionburst-sdk-python), from version 1.1.0
+  - The [Ionburst Go SDK](https://github.com/ionburstcloud/ionburst-sdk-go), from version 1.1.0
 
 #### ⚙️ Fixes
 
